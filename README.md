@@ -1,4 +1,4 @@
-# 🌟 Celebal Technologies Summer Internship 2025 - Yashodip More
+# Celebal Technologies Summer Internship 2025 - Yashodip More
 
 Welcome to my official repository for the **Celebal Technologies Summer Internship 2025**, where I will be documenting all my assignments, learnings, and project contributions in the **Data Science** domain.
 
