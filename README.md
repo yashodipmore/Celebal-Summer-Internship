@@ -22,13 +22,6 @@ This repository serves as a structured documentation of all machine learning ass
 
 ---
 
-## 📚 Contents
-
-| Week | Assignment Title | Description | Status |
-|------|------------------|-------------|--------|
-| 1    | `assignment-name` | Short description of task | ✅ Completed / 🔄 In Progress |
-| 2    | `assignment-name` | Short description of task | ✅ / 🔄 |
-| 3    | ...              | ...         | ...    |
 
 > 📌 Each assignment will have its own folder with:
 > - Problem Statement
@@ -60,5 +53,4 @@ This repository serves as a structured documentation of all machine learning ass
 
 ---
 
-## 📜 Internship Offer Letter Snapshot
 
